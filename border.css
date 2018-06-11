@@ -1,0 +1,35 @@
+h1{
+ border-top: 50px dotted lightpink;
+}
+h2{
+  border: 10px solid pink;
+}
+h3{
+  border-width: 5px;
+  border-style: solid;
+  border-color: pink;
+  margin: 30px 10px;
+  padding: 30px 250px;
+  font-style: italic;
+  font-family: cursive;
+}
+.light{
+  position: relative;
+}
+.x{
+float:right;
+}
+.y{
+  font-size: 80px;
+  color: pink;
+}
+
+#number{
+  display= flex;
+  background-color: blue;
+  border: solid yellow 20px;
+  height: 200px;
+  justify-content: space-envenly;
+  align-items: center;
+  aligh-items:center;
+}
